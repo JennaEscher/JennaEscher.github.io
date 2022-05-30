@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Foréstis 포레스티스"
+title                    : "Random Stuff: This and That"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jenna"
@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Jenna"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Sogang Univ.** 19 Economics/Computer Science"
-  location         : "Somewhere"
-  email            :
+  bio              : "Economics/Computer Science"
+  location         : "Sogang Univ."
+  email            : "grey.chartreuse@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jenna_escher/"
+      url: "https://www.instagram.com/grey.chartreuse/"
 
 
 # Reading Files
